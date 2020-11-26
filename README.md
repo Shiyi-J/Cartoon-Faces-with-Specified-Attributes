@@ -2,6 +2,12 @@
 
 This group project modified the architecture of MSG-GAN and successfully controlled skin color and glasses on cartoon faces. The method provides us an insight on how we can manipulate the latent space to control the synthesis of images.
 
+### Figure 1. Illustration of learning specified attributes.
+<img src="learning_attributes.png" width="700">
+
+### Figure 2. Example output from the model.
+<img src="example_output.png" width="500">
+
 Detailed MSG-GAN model was referenced from
 [msg-gan-v1](https://github.com/akanimax/msg-gan-v1) GitHub repository.
 
